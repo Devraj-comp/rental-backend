@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pmg$#zoz98izm&-75*o+9@okh4&f*$o9m))m24xd(f$u25wqk^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'rental-backend-4zh6.onrender.com']
 
 
 
